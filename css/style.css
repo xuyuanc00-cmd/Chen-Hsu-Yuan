@@ -22,3 +22,7 @@ h3 {
 li {
   color: black;
 }
+
+table {
+  margin-left: 0;      /* 確保表格靠左 */
+}
