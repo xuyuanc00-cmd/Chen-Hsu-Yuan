@@ -22,8 +22,3 @@ h3 {
 li {
   color: black;
 }
-body {
-  max-width: 900px;  /* 限制最大寬度，不讓它無限往右延伸 */
-  margin: 0 auto;    /* 讓整個區塊水平居中 */
-  padding: 20px;
-}
